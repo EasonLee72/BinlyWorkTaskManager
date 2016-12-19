@@ -1,0 +1,15 @@
+D:\EasonCase\MsNet\BinlyWorkTaskManager\bin\Debug\BinlyWorkTaskManager.exe
+D:\EasonCase\MsNet\BinlyWorkTaskManager\bin\Debug\BinlyWorkTaskManager.pdb
+D:\EasonCase\MsNet\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.Form1.resources
+D:\EasonCase\MsNet\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.Properties.Resources.resources
+D:\EasonCase\MsNet\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.csproj.GenerateResource.Cache
+D:\EasonCase\MsNet\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.exe
+D:\EasonCase\MsNet\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.pdb
+D:\EasonCase\MsNet\BinlyWorkTaskManager\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.exe
+D:\EasonCase\MsNet\BinlyWorkTaskManager\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.pdb
+D:\EasonCase\MsNet\BinlyWorkTaskManager\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.csprojResolveAssemblyReference.cache
+D:\EasonCase\MsNet\BinlyWorkTaskManager\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.Form1.resources
+D:\EasonCase\MsNet\BinlyWorkTaskManager\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.Properties.Resources.resources
+D:\EasonCase\MsNet\BinlyWorkTaskManager\BinlyWorkTaskManager\obj\x86\Debug\BinlyWorkTaskManager.csproj.GenerateResource.Cache
+D:\EasonCase\MsNet\BinlyWorkTaskManager\BinlyWorkTaskManager\bin\Debug\BinlyWorkTaskManager.exe
+D:\EasonCase\MsNet\BinlyWorkTaskManager\BinlyWorkTaskManager\bin\Debug\BinlyWorkTaskManager.pdb
